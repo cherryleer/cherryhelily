@@ -13,7 +13,7 @@ color:
 people:
 - name: Cherry
   pic: cherry
-  position: Father
+  position: 天才
   social:
     - title: twitter
       url: #
@@ -35,7 +35,7 @@ people:
 
 - name: Lily
   pic: lily
-  position: Mather
+  position: 二货
   social:
     - title: twitter
       url: #
