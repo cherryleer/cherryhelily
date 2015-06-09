@@ -22,9 +22,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Us
+- name: Lily
   pic: 3
-  position: Family
+  position: Mather
   social:
     - title: twitter
       url: #
@@ -33,9 +33,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Lily
+- name: Us
   pic: 1
-  position: Mather
+  position: Family
   social:
     - title: twitter
       url: #
