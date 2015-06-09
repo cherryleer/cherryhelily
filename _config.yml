@@ -12,7 +12,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Cherry
-  pic: 2
+  pic: cherry
   position: Father
   social:
     - title: twitter
