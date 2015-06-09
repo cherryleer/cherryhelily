@@ -13,36 +13,18 @@ color:
 people:
 - name: Cherry
   pic: cherry
-  position: Father
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Daddy
+  blog: http://cherryleer.com
 
 - name: Us
   pic: us
   position: Family
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  blog: http://cherryhelily.com
 
 - name: Lily
   pic: lily
-  position: Mather
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Mummy
+  blog: http://cherryhelily.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
