@@ -11,9 +11,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Cherry
+  pic: 2
+  position: Father
   social:
     - title: twitter
       url: #
@@ -22,9 +22,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Us
+  pic: 3
+  position: Family
   social:
     - title: twitter
       url: #
@@ -33,15 +33,15 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Lily
+  pic: 1
+  position: Mather
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -59,8 +59,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: shanghai, China
+  - line: pudong
 
 # Build settings
 markdown: kramdown
